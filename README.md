@@ -28,14 +28,14 @@ NIM : 1313624021
 14. **Fitur Tambahan:** Tampilkan semua pengguna terdaftar (urut ID) di menu utama.
 
 # Collaborators (The person you learned from)
-1. Nandanan Ammar T.
+1. Nandana Ammar T.
 
 # Students (the person you taught to complete the assignments)
-1. Nandana Ammar Triabimanyu
+1. Nandana Ammar T.
 2. Leonard Dwi C.
 
 # AI Assistance
-AI Tools: Gemini
+AI Tools: Gemini, Github Copilot
 
 Paid AI Plugin (state none, if not subscribed): none
 
