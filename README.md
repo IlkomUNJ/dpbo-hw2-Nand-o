@@ -37,6 +37,7 @@ NIM : 1313624021
 4. Candra Afriansyah
 5. Sukarno Adi Prasetyo
 6. Faris Maulana
+7. Ridwan Alfarezi
 
 # AI Assistance
 AI Tools: Gemini, Github Copilot
