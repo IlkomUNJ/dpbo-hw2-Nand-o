@@ -33,6 +33,10 @@ NIM : 1313624021
 # Students (the person you taught to complete the assignments)
 1. Nandana Ammar T.
 2. Leonard Dwi C.
+3. Muhammad Yasfi H.
+4. Candra Afriansyah
+5. Sukarno Adi Prasetyo
+6. Faris Maulana
 
 # AI Assistance
 AI Tools: Gemini, Github Copilot
